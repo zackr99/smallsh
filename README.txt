@@ -1,0 +1,4 @@
+to compile the code do gcc --std=gnu99 -o smallsh smallsh.c. To run the testscript to ./p3testscript 2>&1 or you can use roberts test 
+script to run the code and test it by compiling it the same way and typing ./p3testscript-improved to run the script. To test the the code 
+without using the test script compile the same way then type ./smallsh to run the program and the ":" will appear on the screen. if you enter in ls it should display the the contents in the current working directory. if you type in cd it should return to home. If you want to
+change to a specfic directory then type cd space then the directory that you want to change to 
